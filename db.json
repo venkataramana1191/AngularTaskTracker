@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Meeting with Techer",
+      "day": " Aug 13th at 2:30pm",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "Meeting with Doctor",
+      "day": " Aug 13th at 4:30pm",
+      "reminder": true
+    },
+    {
+      "id": 5,
+      "text": "Practice CSS",
+      "day": " Aug 15th at 6:30pm",
+      "reminder": true
+    },
+    {
+      "text": "practice arrays",
+      "day": "Aug 14th 8am",
+      "reminder": false,
+      "id": 6
+    }
+  ]
+}
